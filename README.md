@@ -1,3 +1,10 @@
+Thanks FB's example.
+
+## Quick start
+1. Make sure you have node installed
+2. run `npm install`
+3. run `npm start`, the execution informtion will be print on screen
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
